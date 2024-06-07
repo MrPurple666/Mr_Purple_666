@@ -18,7 +18,7 @@
 
 ---
 
-# Contact me (≧▽≦): <img align="left" width="211" height="211" src="https://raw.githubusercontent.com/MrPurple666/MrPurple666/main/another_osomatsu.gif">
+# Contact me (≧▽≦): <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/MrPurple666/MrPurple666/main/another_osomatsu.gif">
 - Let's discuss here: <a href="https://t.me/MrPurpleProjectsChat"> My project group chat</a>
 - Support group: <a href="https://t.me/MrPurpleProjects">Projects group</a>
 
