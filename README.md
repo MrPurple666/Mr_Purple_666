@@ -1,5 +1,5 @@
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/MrPurple666/MrPurple666/main/13de4b5ce03efffc1a40eb7348a187cc.jpg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/MrPurple666/MrPurple666/main/IMG_20240607_165321.png');]{x0000}$}
 ```
 ---
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-# Contact me (≧▽≦): <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/MrPurple666/MrPurple666/main/another_osomatsu.gif">
+# Contact me (≧▽≦):
 - Let's discuss here: <a href="https://t.me/MrPurpleProjectsChat"> My project group chat</a>
 - Support group: <a href="https://t.me/MrPurpleProjects">Projects group</a>
 
