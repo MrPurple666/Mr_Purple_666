@@ -1,5 +1,5 @@
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/MrPurple666/MrPurple666/main/786e9431f99b7681617ace4f4877a1a8.jpg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/MrPurple666/MrPurple666/main/786e9431f99b7681617ace4f4877a1a8.jpg');]{x0000}$}
 ```
 ---
 <p align="center">
